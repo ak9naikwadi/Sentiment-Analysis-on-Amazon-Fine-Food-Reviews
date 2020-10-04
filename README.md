@@ -9,7 +9,7 @@ A web application built using Flask to predict the sentiment of the food reviews
 + [Dataset](#dataset)
 + [Installation](#installation)
 + [Working](#working)
-+ [Resutls](#results)
++ [Results](#results)
 <br>
 
 ### Dataset
