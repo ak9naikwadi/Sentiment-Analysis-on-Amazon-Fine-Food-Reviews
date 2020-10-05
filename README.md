@@ -101,6 +101,8 @@ The idea is get something better than `word2vec` model. `sense2vec` is super sim
 
 ------
 
+<br>
+
 ## Results
 Positive output prediction with score:
 
