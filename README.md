@@ -1,4 +1,5 @@
 # __Sentiment Analysis on Amazon Fine Food Reviews__
+[![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
 
 A web application built using Flask to predict the sentiment of the food reviews provided by customers and classifying them into `Positive` or `Negative`.
 
